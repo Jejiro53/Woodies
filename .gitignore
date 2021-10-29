@@ -1,13 +1,4 @@
-_build
-_tracks
-
-opa-debug-js
-
-*.opp
-*.opx
-*.opx.broken
-*.dump
-*.api
-*.api-txt
-*.exe
-*.log
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
